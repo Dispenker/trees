@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web-graph", "Web-graph.csproj", "{AF78FE33-B0D7-4E13-BC65-5D967EDF681B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Web|Any CPU = Web|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF78FE33-B0D7-4E13-BC65-5D967EDF681B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF78FE33-B0D7-4E13-BC65-5D967EDF681B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF78FE33-B0D7-4E13-BC65-5D967EDF681B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF78FE33-B0D7-4E13-BC65-5D967EDF681B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF78FE33-B0D7-4E13-BC65-5D967EDF681B}.Web|Any CPU.ActiveCfg = Web|Any CPU
+		{AF78FE33-B0D7-4E13-BC65-5D967EDF681B}.Web|Any CPU.Build.0 = Web|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63512F5-1E78-4BFD-B097-0A195C1AFB36}
+	EndGlobalSection
+EndGlobal

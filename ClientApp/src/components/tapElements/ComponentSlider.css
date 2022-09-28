@@ -1,0 +1,60 @@
+﻿p {
+    margin: 0px;
+}
+
+.dip {
+    position: relative;
+    margin: 0px 10px;
+    height: 54px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px dashed gray;
+    border-radius: 8px;
+    min-width: max-content;
+    overflow: hidden;
+}
+
+.dip:hover {
+    height: auto;
+    border: 1px solid black;
+}
+
+.text {
+    background-color: inherit;
+    margin-bottom: 2px;
+    border-radius: 8px;
+}
+
+.buttons {
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.butDip {
+    min-height: 28px;
+    min-width: 28px;
+    border-style: none;
+    background-color: inherit;
+    margin: 0px;
+    padding: 4px;
+}
+
+.left {
+    border-radius: 8px 0px 0px 8px;
+    border-right: none;
+}
+
+.right {
+    border-radius: 0px 8px 8px 0px;
+    border-left: none;
+}
+
+button.butDip:active, button.butDip:focus {
+    outline: none;
+}
+
+button.butDip::-moz-focus-inner {
+    border: 0;
+}
